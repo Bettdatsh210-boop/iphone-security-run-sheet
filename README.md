@@ -1,2 +1,5 @@
-# iphone-security-run-sheet
-Public iPhone security run sheet — official Settings steps only
+# iPhone Security Run Sheet
+
+Public checklist: official iOS Settings only.
+
+Open [index.html](index.html) or the GitHub Pages URL after Pages is enabled on `main` / root.
